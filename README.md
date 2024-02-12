@@ -27,10 +27,10 @@ A trained model is loaded, and a function is defined to classify input text as c
 ## Usage
 
 - Clone the repository:
-`git clone https://github.com/alexey-krasnov/personal_data_detector.git`
+    `git clone https://github.com/alexey-krasnov/personal_data_detector.git`
 
 - Configure  Python environment and install necessary dependencies installed.
-`pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
 - Open and run the Jupyter Notebook `personal_data_detector.ipynb` step-by-step.
 
