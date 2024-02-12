@@ -1,0 +1,6 @@
+'transformers[torch]'
+faker
+transformers
+torch
+accelerate
+fastparquet
